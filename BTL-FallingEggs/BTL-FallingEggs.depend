@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1619450626 source:c:\users\msi modern 14\onedrive\desktop\code\btl\btl-fallingeggs\btl_sources.cpp
+	"BTL_Header.h"
+
+1619448052 c:\users\msi modern 14\onedrive\desktop\code\btl\btl-fallingeggs\btl_header.h
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<cstdio>
+	<vector>
+
+1619448224 source:c:\users\msi modern 14\onedrive\desktop\code\btl\btl-fallingeggs\main.cpp
+	"BTL_Header.h"
+
+1619445504 source:c:\users\msi modern 14\onedrive\desktop\code\btl\btl-fallingeggs\btl_play.cpp
+	"BTL_Header.h"
+
+1619447470 c:\users\msi modern 14\onedrive\desktop\code\btl\btl-fallingeggs\btl_play.h
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<cstdio>
+	<vector>
+
+1619448052 c:\users\msi modern 14\onedrive\desktop\code\btl\btl-fallingeggs\btl_menu.h
+	<iostream>
+
